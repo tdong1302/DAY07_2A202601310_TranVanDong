@@ -1,3 +1,11 @@
 doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
-k4-returns-policy,data/k4_ecommerce/returns-policy.md,Chính sách đổi trả,https://example.com/chinh-sach/doi-tra,2026-08-02,2026.1,example-template-replace-me
-k4-seller-listing,data/k4_ecommerce/seller-listing.md,Quy định đăng bán,https://example.com/nguoi-ban/dang-ban,2026-08-02,2026.1,example-template-replace-me
+payment-policy,data/k4_ecommerce/payment-policy.md,Chính sách thanh toán và bảo mật giao dịch,https://fptshop.com.vn/ho-tro/chinh-sach-thanh-toan,2026-08-03,2026-01-01,public-page
+returns-policy,data/k4_ecommerce/returns-policy.md,Chính sách đổi trả và hoàn tiền,https://fptshop.com.vn/ho-tro/chinh-sach-doi-tra,2026-08-03,2026-01-15,public-page
+seller-listing,data/k4_ecommerce/seller-listing.md,Quy định đăng bán sản phẩm và hàng hóa hạn chế,https://www.tiktok.com/legal/page/global/tiktok-shop-prohibited-products-policy/vi-VN,2026-08-03,2026-02-01,public-page
+seller-penalties,data/k4_ecommerce/seller-penalties.md,Quy định chế tài và hệ thống điểm phạt Người bán,https://www.tiktok.com/legal/page/global/tiktok-shop-seller-performance-policy/vi-VN,2026-08-03,2026-02-01,public-page
+shipping-warranty,data/k4_ecommerce/shipping-warranty.md,Chính sách giao hàng, đồng kiểm và quyền lợi nhận hàng,https://fptshop.com.vn/ho-tro/chinh-sach-giao-hang,2026-08-03,2026-01-10,public-page
+tiktok-terms-of-service,data/k4_ecommerce/tiktok-terms-of-service.md,Điều Khoản Dịch Vụ Nền Tảng TikTok Shop,https://www.tiktok.com/legal/page/global/terms-of-service/vi-VN,2026-08-03,2026-02-01,public-page
+tiktok-privacy-policy,data/k4_ecommerce/tiktok-privacy-policy.md,Chính Sách Quyền Riêng Tư Và Bảo Mật Thông Tin Khách Hàng,https://www.tiktok.com/legal/page/global/privacy-policy/vi-VN,2026-08-03,2026-02-01,public-page
+tiktok-virtual-items,data/k4_ecommerce/tiktok-virtual-items.md,Chính Sách Về Vật Phẩm Giao Dịch Và Hoàn Tiền Trên TikTok Shop,https://www.tiktok.com/legal/page/global/virtual-items-policy/vi-VN,2026-08-03,2026-01-15,public-page
+tiktok-copyright-policy,data/k4_ecommerce/tiktok-copyright-policy.md,Chính Sách Sở Hữu Trí Tuệ Và Vi Phạm Đăng Bán Hàng Hóa,https://www.tiktok.com/legal/page/global/copyright-policy/vi-VN,2026-08-03,2026-01-01,public-page
+tiktok-community-guidelines,data/k4_ecommerce/tiktok-community-guidelines.md,Tiêu Chuẩn Cộng Đồng Và Chế Tài Cấm Đăng Tải Nội Dung Gian Lận,https://www.tiktok.com/legal/page/global/community-guidelines/vi-VN,2026-08-03,2026-02-01,public-page
